@@ -2,7 +2,7 @@
 
 This repository has been created to explore some ways to animate data graphs. This is a very interesting way to visualize certain type of phenomena which involve time as a key variable, such as trading prizes or temperature changes over the years.
 
-The code can be seen in this same repository, written in this [jupyter notebook](https://github.com/carlosdavila91/animating_graphs/blob/master/Animating%20a%20Scatter%20Plot.ipynb).
+The code can be seen in this same repository, written in this [jupyter notebook](https://github.com/carlosdavila91/animating_graphs/blob/master/animating-scatterplot.ipynb).
 
 ### Data
 
