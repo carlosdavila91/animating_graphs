@@ -21,7 +21,6 @@ This a common library used to animate plots. As you can see, the [matplotlib web
 #### Methods 1 and 2
 * They are really similar one of each other
 * Animated figures created with these extensions of `Pyplot` cannot be exported to a format as `png` or `gif` which leads to less control of the result.
-* (For visualizations that do not depend on an internet connection is a more than valid solution).
 
 #### Method 3
 * It may require a little bit more code than the other two.
