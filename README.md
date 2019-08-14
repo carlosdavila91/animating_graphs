@@ -12,7 +12,7 @@ Data has been created randomly for this purpose. Some `numpy.random` methods and
 
 Those two methods are based on `pyplot` and give a nice-looking animated figure. All the aesthetics are implemented and are easy to play with.
 
-### Method 3: using `matplotlib.pyplot`
+### Method 3: using `matplotlib.pyplot`
 
 This a common library used to animate plots. As you can see, the [matplotlib website](https://matplotlib.org/api/animation_api.html#examples) documents several examples of how to do this.
 
@@ -23,6 +23,6 @@ This a common library used to animate plots. As you can see, the [matplotlib web
 * Animated figures created with these extensions of `Pyplot` cannot be exported to a format as `png` or `gif` which leads to less control of the result.
 * (For visualizations that do not depend on an internet connection is a more than valid solution).
 
-#### Method 3
+#### Method 3
 * It may require a little bit more code than the other two.
 * It is easier to control the result. In this case, the set of `.png` images were easily transformed into a `.gif` document.
