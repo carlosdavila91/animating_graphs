@@ -6,9 +6,9 @@ The code can be seen in this same repository, written in this [jupyter notebook]
 
 ### Data
 
-Data has been created randomly for this purpose. Some `numpy.random` methods and functions were used for learning purposes.
+Data has been created randomly for this exercise. Some `numpy.random` methods and functions were used for learning purposes.
 
-### Method 1 and 2: using `pyplot.express` and `bubbly.bubbleplot`.
+### Methods 1 and 2: using `pyplot.express` and `bubbly.bubbleplot`.
 
 Those two methods are based on `pyplot` and give a nice-looking animated figure. All the aesthetics are implemented and are easy to play with.
 
